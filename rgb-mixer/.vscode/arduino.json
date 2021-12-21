@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "rgb-mixer.ino",
+    "port": "COM9"
+}
